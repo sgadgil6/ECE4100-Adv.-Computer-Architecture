@@ -1,0 +1,2 @@
+Error: invalid protocol specified.
+sim_trace: sim.cpp:27: void fatal_error(const char*, ...): Assertion `0 && "Fatal Error"' failed.

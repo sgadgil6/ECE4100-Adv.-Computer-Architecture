@@ -1,0 +1,8 @@
+To compile with g++ do:
+    make
+
+To compile with cc do:
+    make C=1
+
+In any case, to clean do:
+    make clean
